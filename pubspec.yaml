@@ -1,6 +1,6 @@
 name: advanced_date_formatter
 description: "A advanced date formatter for flutter"
-version: 0.0.4
+version: 1.0.1
 repository: https://github.com/berkkebapci/advanced_date_formatter
 homepage:
 license: MIT
@@ -14,6 +14,7 @@ dependencies:
     sdk: flutter
     
   intl: ^0.20.1
+  timeago: ^3.2.2
 
 dev_dependencies:
   flutter_test:
